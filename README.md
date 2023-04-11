@@ -1,0 +1,1 @@
+# cultural-events---Activities-DB-Schema
